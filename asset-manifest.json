@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/REDUX/static/js/main.01aa417b.js",
+    "main.js": "/REDUX/static/js/main.d0c2e826.js",
     "index.html": "/REDUX/index.html",
-    "main.01aa417b.js.map": "/REDUX/static/js/main.01aa417b.js.map"
+    "main.d0c2e826.js.map": "/REDUX/static/js/main.d0c2e826.js.map"
   },
   "entrypoints": [
-    "static/js/main.01aa417b.js"
+    "static/js/main.d0c2e826.js"
   ]
 }
