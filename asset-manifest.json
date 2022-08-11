@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/redux/static/js/main.e12c1643.js",
-    "index.html": "/redux/index.html",
-    "main.e12c1643.js.map": "/redux/static/js/main.e12c1643.js.map"
+    "main.js": "/REDUX/static/js/main.e12c1643.js",
+    "index.html": "/REDUX/index.html",
+    "main.e12c1643.js.map": "/REDUX/static/js/main.e12c1643.js.map"
   },
   "entrypoints": [
     "static/js/main.e12c1643.js"
